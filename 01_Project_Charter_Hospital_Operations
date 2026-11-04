@@ -1,0 +1,282 @@
+PROJECT CHARTER 
+Hospital Operations, Cost & Patient Flow Intelligence 
+Programme:  AnalystLab Africa Experience Lab Internship Programme 
+Assignment:  Healthcare Analytics and AI Implementation 
+Project Title:  Hospital Operations, Cost & Patient Flow Intelligence 
+Assigned Role:  Project Management Intern 
+Project Status:  Proposed 
+1. Project Background and Business Need 
+Healthcare organizations generate large amounts of operational and financial data through 
+patient encounters, medical procedures, payer records, and organizational activities. When this 
+information is not properly organized and analyzed, hospital managers may experience 
+difficulties monitoring patient flow, understanding healthcare costs, identifying operational 
+inefficiencies, and making informed decisions the Hospital Operations, Cost & Patient Flow 
+Intelligence project aims to use the datasets provided for the internship assignment to support the 
+analysis of hospital operations, patient encounters, procedures, and cost-related information. The 
+project brings together different technical workstreams, including data analytics, data science, 
+machine learning engineering, and generative AI, to develop a healthcare intelligence solution. 
+The project management function will coordinate the activities of these workstreams, monitor 
+progress, manage risks, and support the successful delivery of the project within the assigned 
+timeframe. 
+2. Project Objectives 
+The project aims to: 
+1. Coordinate the development of a healthcare intelligence solution using the datasets 
+provided for the assignment. 
+2. Support the analysis of patient encounters, procedures, payer information, and available 
+cost-related data. 
+3. Identify operational patterns and potential inefficiencies in patient flow through the 
+analysis conducted by the technical teams. 
+4. Ensure that data quality issues, assumptions, and limitations are documented by the 
+relevant work stream members. 
+5. Coordinate activities across the technical workstreams and monitor progress against 
+agreed schedules and milestones. 
+6. Establish project management procedures for risk management, quality assurance, 
+communication, and change control. 
+7. Ensure that project outputs are properly documented, reviewed, and prepared for final 
+presentation and handover. 
+3. Project Scope 
+3.1 In Scope 
+The project will cover the following activities: 
+ Project initiation, planning, and coordination. 
+ Stakeholder identification and communication. 
+ Coordination of the initial review of the supplied healthcare datasets. 
+ Documentation and monitoring of data quality findings. 
+ Development and maintenance of the Work Breakdown Structure (WBS). 
+ Preparation of the project schedule and Gantt chart. 
+ Resource planning and preparation of an estimated project budget. 
+ Coordination and monitoring of the data analytics, data science, machine learning, and 
+generative AI workstreams. 
+ Risk, issue, and change management. 
+ Quality assurance and testing coordination. 
+ Monitoring project progress and managing dependencies. 
+ Stakeholder review, final documentation, presentation, and project handover. 
+3.2 Out of Scope 
+The following activities are excluded from the project: 
+ Deploying the solution in a live hospital environment. 
+ Accessing or modifying actual hospital production systems. 
+ Making clinical diagnoses or treatment recommendations. 
+ Replacing existing hospital information management systems. 
+ Publishing patient names, addresses, or other unnecessary personal identifiers. 
+ Making unsupported claims about actual hospital performance or patient outcomes. 
+4. Key Project Deliverables 
+No. 
+Deliverable 
+1 Project Charter 
+Description 
+Defines the project background, objectives, scope, 
+stakeholders, assumptions, constraints, and major risks. 
+2 Work Breakdown Structure 
+(WBS) 
+3 Project Schedule and Gantt 
+Chart 
+Divides the project into manageable phases, activities, and 
+deliverables. 
+Presents activities, estimated durations, dependencies, 
+milestones, and responsible roles. 
+4 Resource and Budget Plan Identifies required personnel, tools, resources, and estimated 
+project costs. 
+5 Risk Register 
+Documents project risks, likelihood, impact, mitigation 
+measures, responsible owners, and status. 
+6 Quality Management Plan Defines quality controls, testing procedures, and acceptance 
+criteria. 
+7 Simulated Project Progress 
+and Change Report 
+8 Final Project Delivery and 
+Handover Checklist 
+Presents a hypothetical progress update involving delayed 
+activities, a change request, impacts, and corrective actions. 
+Confirms the completion and organization of project outputs, 
+documentation, and handover requirements. 
+5. Stakeholders and Responsibilities 
+The project will involve different stakeholders who will contribute according to their assigned 
+responsibilities. 
+Stakeholder / 
+Role 
+Project 
+Management 
+Intern 
+Data Analyst 
+Data Scientist 
+Machine Learning 
+Engineer 
+Generative AI 
+Engineer 
+QA Tester 
+Programme 
+Supervisor 
+Main Responsibilities 
+Coordinates project activities, prepares project plans, monitors progress, 
+manages dependencies, maintains project documentation, coordinates 
+communication, and tracks risks and issues. 
+Conducts data assessment, analysis, and reporting activities. 
+Performs exploratory data analysis, feature engineering, and model 
+development activities. 
+Develops and evaluates the assigned machine learning components. 
+Develops and evaluates the generative AI prototype. 
+Conducts testing, records defects, and reports testing results. 
+Provides guidance, monitors internship progress, and reviews project 
+submissions. 
+Role clarification: The Project Management Intern is responsible for coordinating and 
+monitoring the overall project. The technical activities assigned to the Data Analyst, Data 
+Scientist, Machine Learning Engineer, Generative AI Engineer, and QA Tester remain the 
+responsibility of those respective interns. The Project Management Intern does not take over 
+their technical responsibilities. 
+6. Project Assumptions and Constraints 
+6.1 Assumptions 
+The project is based on the following assumptions: 
+ The supplied datasets and supporting documentation will be available to the relevant 
+team members. 
+ Team members will understand their assigned responsibilities and provide progress 
+updates. 
+ The datasets will contain information relevant to the planned analysis, subject to 
+verification. 
+ The actual fields, completeness, consistency, and quality of each dataset will be assessed 
+before detailed analysis activities are finalized. 
+ Any missing, inconsistent, or unsuitable data will be documented by the relevant 
+technical team rather than treated as accurate. 
+ Team members will communicate challenges and delays promptly. 
+ The project will use the tools and resources available to the internship team. 
+6.2 Constraints 
+The project will operate under the following constraints: 
+ All required Week 3 deliverables must be submitted by the official deadline: Wednesday, 
+11:59 PM WAT. 
+ Access to specialist software, computing resources, and technical support may be limited. 
+ Data quality issues, missing values, and inconsistent fields may affect the technical 
+workstreams. 
+ Delays in one workstream may affect activities that depend on its outputs. 
+ Patient privacy and applicable data protection requirements must be maintained. 
+ The project is an internship learning exercise and does not authorize access to live 
+hospital systems or the use of the solution for actual clinical decisions. 
+7. Project Acceptance Criteria 
+The project will be considered ready for submission when the following conditions have been 
+met: 
+1. All eight required project management deliverables have been prepared and reviewed for 
+completeness. 
+2. The WBS clearly identifies project phases, activities, and deliverables. 
+3. The project schedule identifies activities, estimated durations, dependencies, milestones, 
+and responsible roles. 
+4. The resource and budget plan identifies the required resources and estimated costs, with 
+assumptions clearly documented. 
+5. The risk register contains at least eight relevant risks, including their likelihood, impact, 
+mitigation measures, assigned owners, and status. 
+6. The quality management plan defines quality controls and acceptance criteria for the 
+major project outputs. 
+7. The simulated progress report includes at least two delayed activities and one change 
+request, with their potential effects on schedule, cost, scope, and quality clearly 
+explained. 
+8. Corrective actions are proposed and relevant project records are updated to reflect the 
+simulated changes. 
+9. Technical workstream outputs are reviewed for completeness, with available testing and 
+validation evidence documented. 
+10. Final project documentation and handover materials are organized and ready for 
+supervisor review. 
+8. Major Project Risks 
+The following risks have been identified during project initiation: 
+No. 
+Risk 
+Potential Impact 
+1 Poor data quality Incomplete or inaccurate 
+analysis and findings. 
+2 Unclear metric 
+definitions 
+Delayed 
+3 
+4 
+workstream 
+activities 
+Unauthorized 
+access or privacy 
+breach 
+5 Inconsistent source 
+fields 
+6 Model or 
+application failure 
+7 
+Inaccurate AI
+generated 
+responses 
+8 Inadequate testing 
+Different workstreams may 
+calculate or interpret 
+measures inconsistently. 
+Dependent activities and 
+project milestones may be 
+delayed. 
+Exposure of sensitive 
+patient information. 
+Dataset integration may 
+produce errors or require 
+additional work. 
+Planned technical outputs 
+may be incomplete or 
+unreliable. 
+The prototype may produce 
+misleading or unsupported 
+information. 
+Defects may remain 
+undetected before 
+submission or handover. 
+Proposed Mitigation 
+Coordinate data quality checks and ensure 
+limitations are documented. 
+Ensure that workstream leads agree on 
+and document metric definitions before 
+combining results. 
+Monitor progress regularly, identify 
+blockers early, and agree on corrective 
+actions with the responsible workstream 
+leads. 
+Use only authorized data, apply 
+appropriate access controls, and exclude 
+unnecessary patient identifiers from 
+reports and public materials. 
+Coordinate field mapping and validation 
+before integrated analysis begins. 
+Ensure that testing and technical reviews 
+are included in the relevant workstream 
+plans. 
+Require output validation, documented 
+limitations, and human review. The 
+prototype must not be used for clinical 
+decisions. 
+Include testing milestones and require 
+documented test results and defect status. 
+The detailed risk register will be maintained separately and will include likelihood, impact, 
+mitigation actions, risk owners, and status. 
+9. Project Governance and Communication 
+The Project Management Intern will coordinate project planning, progress monitoring, 
+documentation, and communication across all workstreams. 
+Each workstream lead will be responsible for providing updates on assigned activities, reporting 
+challenges, identifying risks, and communicating any changes that may affect project delivery. 
+Project progress updates will capture: 
+ Activities completed. 
+ Activities currently in progress. 
+ Upcoming activities and milestones. 
+ Delayed activities and their causes. 
+ Outstanding issues and identified risks. 
+ Decisions required and corrective actions. 
+ Responsible persons and agreed action dates. 
+Any significant change to project scope, schedule, or resource requirements must be documented 
+and submitted to the appropriate supervisor or programme contact for review before it is treated 
+as approved. 
+Project documentation will be maintained in an organized shared workspace to support 
+accountability, collaboration, and final handover. 
+All project members must observe data protection requirements. Patient-identifiable information 
+must not be included in public repositories, screenshots, presentations, or other materials unless 
+explicitly authorized and appropriately protected. 
+10. Project Charter Approval 
+This Project Charter establishes the purpose, objectives, scope, stakeholder responsibilities, 
+assumptions, constraints, and governance arrangements for the Hospital Operations, Cost & 
+Patient Flow Intelligence project. 
+It will serve as the foundation for detailed project planning, scheduling, risk management, quality 
+control, and delivery monitoring throughout the assignment. 
+Approval Role 
+Name 
+Signature /  
+Date 
+Project Management Intern   Alinafe M. Manyamba           02.Nov.2026 
+Programme Supervisor 
+To be completed 
+To be 
+completed
