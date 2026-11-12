@@ -1,157 +1,114 @@
-# ShopSmart Retail Analytics & AI Implementation Project
+ CONSUMER COMPLAINT TRENDS AND RESPONSE INTELLIGENCE PLATFORM
 
 ## 1. Project Overview
 
-The ShopSmart Retail Analytics & AI Implementation Project is a 36-day project focused on using data analytics, data science, machine learning, and generative AI to support better retail business insights and decision-making.
+The Consumer Complaint Trends and Response Intelligence Platform is an internship project based on consumer complaints submitted to the Consumer Financial Protection Bureau (CFPB) concerning Bank of America between 2017 and 2023.
 
-The project brings together four workstreams:
-- Data Analytics
-- Data Science
-- Machine Learning
-- Generative AI
+The project brings together five tracks to examine consumer complaint patterns, identify trends, explore forecasting approaches and develop an AI-assisted response solution.
 
 ## 2. Project Objectives
 
 The main objectives are to:
 
-- Collect, review, clean, and validate relevant retail data.
-- Conduct exploratory data analysis to identify trends and patterns.
-- Develop a dashboard to present key business insights.
-- Develop a machine-learning model prototype.
-- Develop a generative-AI prototype.
-- Test project outputs and address identified issues.
-- Prepare final project documentation and presentation.
+- Examine consumer complaint trends and patterns.
+- Identify common complaint products and issues.
+- Explore statistical analysis and forecasting approaches.
+- Develop an AI-assisted tool for consumer complaint response intelligence.
+- Organize the different technical outputs into a coordinated project.
 
-## 3. Key Deliverables
+## 3. Project Tracks
 
-The planned project deliverables include:
+The project consists of five tracks:
 
-1. Project schedule
-2. Gantt chart
-3. Critical-path analysis
-4. Resource-allocation plan
-5. Project budget
-6. Cleaned and validated dataset
-7. Exploratory data analysis
-8. Dashboard prototype
-9. Machine-learning model prototype
-10. Generative-AI prototype
-11. Quality-assurance and testing results
-12. Final documentation and presentation
+1. Data Analytics: Data preparation, exploration and complaint trend analysis.
+2. Data Science: Statistical analysis and interpretation of complaint patterns.
+3. Machine Learning: Forecasting and predictive model development.
+4. Generative AI: Development of an AI-assisted complaint response tool.
+5. Project Management: Planning, coordination, risk management, progress monitoring and delivery.
 
-## 4. Project Timeline
+## 4. My Role  Track F: Project Management
 
-The project is planned to run for 36 days.
+My responsibility was to coordinate and monitor project activities across the five tracks.
 
-| Phase | Planned Period |
-|---|---|
-| Project initiation and planning | Days 1–8 |
-| Data preparation and initial development | Days 5–11 |
-| Analysis and technical development | Days 12–24 |
-| Quality assurance and testing | Days 25–28 |
-| Stakeholder review and corrections | Days 29–31 |
-| Final documentation and presentation | Days 32–34 |
-| Final acceptance and project closure | Days 35–36 |
+My work focused on:
 
-Some activities will run concurrently to support efficient delivery. The detailed schedule, dependencies, and activity durations will be maintained in the project planning workbook.
+- Preparing the Project Charter.
+- Developing the Work Breakdown Structure.
+- Preparing the project schedule.
+- Documenting roles and responsibilities through the RACI Matrix.
+- Identifying project risks and mitigation measures.
+- Developing the Stakeholder Communication Plan.
+- Preparing the Task and Milestone Tracker.
+- Coordinating project reviews and supporting final delivery.
 
-## 5. Team Roles and Responsibilities
+## 5. Project Management Deliverables
 
-- **Project Management Intern:** Coordinates project planning, scheduling, communication, progress monitoring, documentation, and closure.
-- **Data Analyst:** Supports data review, dashboard requirements, dashboard development, and reporting.
-- **Data Scientist:** Supports data cleaning, validation, exploratory analysis, and feature engineering.
-- **Machine Learning Engineer:** Develops the machine-learning prototype.
-- **Generative AI Engineer:** Develops the generative-AI prototype.
-- **Business Analyst:** Helps identify stakeholder requirements and translate them into dashboard requirements.
-- **QA Tester:** Tests project outputs, records defects, and verifies corrections.
-- **Workstream Leads and Stakeholders:** Review deliverables, provide feedback, and support acceptance.
+The following documents were prepared under Track F:
 
-## 6. Planned Tools and Resources
+| No. | Deliverable | Description |
+|---|---|---|
+| 1 | Project Charter | Defines project objectives, scope and expected outcomes. |
+| 2 | Work Breakdown Structure | Organizes project activities into manageable tasks. |
+| 3 | Project Schedule (Gantt Chart) | Presents the project timeline and milestones. |
+| 4 | RACI Matrix | Documents proposed roles and responsibilities. |
+| 5 | Risk and Issue Register | Identifies potential risks and mitigation measures. |
+| 6 | Stakeholder Communication Plan | Defines communication arrangements. |
+| 7 | Task and Milestone Tracker | Monitors tasks, deadlines and progress. |
+| 8 | Final Project Status Report | Summarizes project progress and outstanding activities. |
+| 9 | Evidence of Coordination and Delivery | Documents the Project Management contribution and supporting evidence. |
 
-The project may use appropriate tools and resources for:
+## 6. Methodology
 
-- Data analysis and visualization
-- Dashboard development
-- Machine-learning development
-- Generative-AI prototyping
-- Cloud computing and storage
-- Project documentation and communication
-- Testing and quality assurance
+The Project Management track followed a structured approach:
 
-The final tools will depend on project requirements, availability, and resource constraints.
+1. Initiation: Established project objectives, scope, stakeholders and expected deliverables.
+2. Planning: Organized activities, timelines, responsibilities and dependencies.
+3. Risk Management: Identified potential challenges and documented mitigation measures.
+4. Communication: Established arrangements for sharing information and following up on progress.
+5. Monitoring: Prepared a task tracker to monitor activities, deadlines and milestones.
+6. Delivery: Prepared for final review, documentation and handover of project outputs.
 
-## 7. Project Budget
+## 7. Tools Used
 
-The current provisional estimated budget is **$13,530**, including a 10% contingency reserve.
+The Project Management work used:
 
-The planned budget categories include:
+- Microsoft Excel for project schedules, registers, matrices and trackers.
+- Microsoft Word for project documentation and reports.
+- GitHub for organizing and sharing project files, where applicable.
 
-- Personnel
-- Software
-- Hardware
-- Cloud services
-- Internet and network resources
-- Training and documentation
-- Contingency reserve
+## 8. Assumptions and Limitations
 
-These figures are preliminary planning estimates and should be reviewed as resource requirements are confirmed.
+- The project uses CFPB consumer complaint records covering 2017–2023.
+- A consumer complaint represents a reported issue and does not automatically establish misconduct by a company.
+- Project timelines and responsibilities were prepared as planning arrangements and may be adjusted based on team progress.
+- Technical findings, forecasts and AI-generated outputs must be reviewed by their respective track members.
+- The Project Management track coordinates technical activities but does not independently develop the technical solutions.
+- Final project status depends on the availability and review of deliverables from all five tracks.
 
-## 8. Risk Management
+## 9. Project File Organization
 
-Potential project risks include:
+The recommended submission structure is:
 
-- Delays in data collection or preparation
-- Poor data quality or incomplete information
-- Limited availability of team members or technical resources
-- Technical difficulties during prototype development
-- Changes in stakeholder requirements
-- Testing defects or delayed stakeholder feedback
-- Schedule delays caused by dependent activities
+Week4_Consumer_Complaint_Intelligence_Platform
+ 
+- README.md
+- Project_Charter.docx
+- Work_Breakdown_Structure.xlsx
+- Project_Schedule_Gantt.xlsx
+- RACI_Matrix.xlsx
+- Risk_and_Issue_Register.xlsx
+- Stakeholder_Communication_Plan.xlsx
+- Task_and_Milestone_Tracker.xlsx
+- Final_Project_Status_Report.docx
+- Evidence_of_Coordination_and_Delivery.docx
+- Supporting Evidence
 
-Risk mitigation measures include early data validation, clear assignment of responsibilities, regular progress reviews, timely communication, testing, and stakeholder engagement.
+## 10. Conclusion
 
-## 9. Progress Monitoring and Quality Assurance
+The Project Management track provides a structured approach to coordinating the Consumer Complaint Trends and Response Intelligence Platform. The prepared documents support planning, communication, risk management, progress monitoring and the organization of project deliverables.
 
-Project progress will be monitored against the approved schedule, activity dependencies, milestones, and assigned responsibilities.
+This README serves as a guide to understanding my contribution and locating the supporting Project Management documents.
 
-Quality assurance will include:
-
-- Reviewing data quality and completeness
-- Checking dashboard functionality and accuracy
-- Testing machine-learning and generative-AI prototypes
-- Recording and resolving defects
-- Collecting stakeholder feedback
-- Reviewing final documentation before acceptance
-
-Progress updates will help identify delays and support timely corrective action.
-
-## 10. Repository Contents
-
-This repository will organize the planning documents and deliverables for the ShopSmart project.
-
-Planned contents include:
-
-- Project schedule and Gantt chart
-- Critical-path analysis
-- Resource-allocation plan
-- Project budget
-- Project execution strategy
-- Supporting documentation
-- Prototype materials and testing records, where applicable
-
-Files will be added as they are prepared and reviewed.
-
-## 11. Project Status
-
-**Project status:** Planning and development
-
-**Planned duration:** 36 days
-
-**Project workstreams:** Data Analytics, Data Science, Machine Learning, and Generative AI
-
-## 12. Project Information
-
-- **Project Name:** ShopSmart Retail Analytics & AI Implementation Project
-- **Prepared by:** Alinafe Milley Manyamba
-- **Role:** Project Management Intern
-- **Program:** AnalystLab Africa
+Track: F Project Management  
+Project Period:5–13 November 2026  
+Reporting Date: 12 November 2026
